@@ -1,2 +1,3 @@
 ini adalah file 1
 fiture rebase file1
+ini ditambahin untuk contoh fetch
