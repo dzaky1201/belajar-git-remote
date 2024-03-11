@@ -1,2 +1,3 @@
 ini adalah file 4
 melakukan penambahan kalimat dari file4 contoh squash
+ini juga berubah di file4
